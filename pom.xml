@@ -233,13 +233,6 @@
     </dependencies>
   </dependencyManagement>
 
-  <scm>
-    <connection>scm:git:git@github.com:skillrary/maven-helloworld.git</connection>
-    <developerConnection>scm:git:git@github.com:skillrary/maven-helloworld.git</developerConnection>
-    <tag>HEAD</tag>
-    <url>https://github.com/skillrary/maven-helloworld</url>
-  </scm>
-
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
